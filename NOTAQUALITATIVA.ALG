@@ -52,6 +52,8 @@ escreva ("insira a nota")
   caso 19
   escreva ("muitobom")
   caso 20
+  outrocaso
+  escreva ("nota invalida")
   
   fimescolha
   
